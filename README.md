@@ -5,4 +5,6 @@ for example:
 ```zsh 
 $ mcat
 $ mecho
+$ mwc
+$ mhead
 ```
